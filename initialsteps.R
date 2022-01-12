@@ -3,3 +3,6 @@ create_website(dir = ".", title = "mfeo", gh_pages = TRUE)
 
 library(postcards)
 create_postcard(file = "tobi.Rmd") # future name of .Rmd file
+
+file.create(".nojekyll")
+usethis::use_github()
