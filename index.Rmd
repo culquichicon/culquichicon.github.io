@@ -1,18 +1,14 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Carlos Culquichicon"
+image: "avatar.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/culquichicon/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:carlos.culquichicon@emory.edu"
 site: distill::distill_website
 output:
-  postcards::jolla
+  postcards::trestles
 ---
  
 I am a classically trained data scientist living in the San Francisco Bay Area. 
