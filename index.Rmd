@@ -16,7 +16,10 @@ output:
 Carlos
 
 ## Education
+MSPH 2022, Rollins School of Public Health, Emory University, USA.
 
+MD 2017, National University of Piura, Peru.
+	
 ## Papers
 
 ## Projects
