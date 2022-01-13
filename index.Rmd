@@ -13,7 +13,8 @@ output:
 
 ## Bio
 
-Carlos
+Carlos is a 'William H. Foege' Global Health Fellow enrolled in the Masters' of Science in Public Health (MSPH) on Environmental Health and Epidemiology at the Rollins School of Public Health, Emory University. He is interested in causal inference methods applied on arboviral disease randomized trials for vector-control strategies at the population-level.
+
 
 ## Education
 MSPH 2022, Rollins School of Public Health, Emory University, USA.
