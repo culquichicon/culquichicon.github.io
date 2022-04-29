@@ -5,7 +5,7 @@ links:
   - label: GitHub
     url: "https://github.com/culquichicon/"
   - label: Email
-    url: "mailto:carlos.culquichicon@emory.edu"
+    url: "mailto:cculqui@uw.edu"
 site: distill::distill_website
 output:
   postcards::trestles
