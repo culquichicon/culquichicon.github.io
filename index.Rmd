@@ -27,8 +27,10 @@ Full list of manuscripts could be find [here](https://www.ncbi.nlm.nih.gov/myncb
 
 
 ## Projects
-[Prokopec lab](https://www.prokopeclab.org/people2) | Arboviral research
+[Ortblad lab - Fred Hutchinson Center](https://www.fredhutch.org/en/faculty-lab-directory/ortblad-katrina.html?gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDL4BCjoNw0yTDZ144PJVBaBAV-jARHzbGwAimoGPFuEzjEwMNs5ATkaApSaEALw_wcB) | HIV trials
 
-[IETSI](http://www.essalud.gob.pe/ietsi/desarrll_invest.html) | Division of observational studies
+[Prokopec lab - Emory University](https://www.prokopeclab.org/people2) | Arboviral disease trials
 
-[Emerge - UPCH](https://investigacion.cayetano.edu.pe/catalogo/saludintegral/emerge) | Emerging diseases and climate change
+[IETSI](http://www.essalud.gob.pe/ietsi/desarrll_invest.html) | Causal effects in observational studies
+
+[Emerge - Cayetano Heredia University](https://investigacion.cayetano.edu.pe/catalogo/saludintegral/emerge) | Emerging diseases and nutritional status in El Nino cohort study
