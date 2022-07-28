@@ -1,6 +1,6 @@
 ---
 title: "Carlos Culquichicon"
-image: "avatar.jpg"
+image: "avatar2.jpg"
 links:
   - label: GitHub
     url: "https://github.com/culquichicon/"
