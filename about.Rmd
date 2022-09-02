@@ -1,8 +1,11 @@
 ---
-title: "About this site"
+title: "Others"
 description: |
-  Some additional details about the website
+  Some curious things about me
 ---
+
+I love cats, and dogs. Also I love cooking Peruvian food.
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
