@@ -13,7 +13,7 @@ output:
 
 ## Bio
 
-Carlos is a PhD student in Epidemiology at the University of Washington School of Public Health, and research assistant at the Fred Hutchinson Center. Interested in causal inference methods applied on observational studies and randomized trials under time-variant settings. Currently applying causal inference methods on a cluster-randomized trial addressing PrEP initiation in Kenya.
+Carlos is a PhD student in Epidemiology at the University of Washington's School of Public Health, and research assistant at the Fred Hutchinson Center. Interested in causal inference methods applied on observational studies and randomized trials under time-variant settings. Currently applying causal inference methods on a cluster-randomized trial addressing PrEP initiation in Kenya.
 
 ## Education
 PhD 2022-Present, Department of Epidemiology, University of Washington, USA.
